@@ -1,2 +1,3 @@
-# first-repo 
-the first but not the last
+# first-repo
+
+bahti qkata rabota
