@@ -1,2 +1,2 @@
 # first-repo
-repoto ot kompa
+read me from master
