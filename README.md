@@ -1,2 +1,2 @@
 # first-repo
-bahti qkata rabota
+repoto ot kompa
